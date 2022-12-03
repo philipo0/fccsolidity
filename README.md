@@ -1,2 +1,2 @@
 # fccsolidity
-freecodecamp fullstack with javascript
+freecodecamp solidity & javascript blockchain course
